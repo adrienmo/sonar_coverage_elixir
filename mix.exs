@@ -7,7 +7,7 @@ defmodule SonarCoverageElixir.Mixfile do
       version: "0.1.0",
       elixir: "~> 1.0",
       deps: [],
-      description: description,
+      description: description(),
       package: [],
     ]
   end
